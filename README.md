@@ -21,7 +21,7 @@ apt update
 apt -y upgrade
 apt -y install git yarn
 git clone https://github.com/libersoft-org/solidity-nft-game.git
-cd nft-game
+cd solidity-nft-game
 yarn install
 ```
 
