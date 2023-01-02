@@ -1,0 +1,24 @@
+{
+  "name": "NFT",
+  "version": "1.0.0",
+  "license": "Unlicense",
+  "dependencies": {
+    "node-fetch": "^2"
+  },
+  "devDependencies": {
+    "@openzeppelin/contracts": "*",
+    "@nomiclabs/hardhat-ethers": "*",
+    "@nomiclabs/hardhat-etherscan": "*",
+    "@nomiclabs/hardhat-waffle": "*",
+    "@typechain/hardhat": "^2.3.1",
+    "@typechain/ethers-v5": "*",
+    "@types/mocha": "*",
+    "chai": "*",
+    "ethereum-waffle": "*",
+    "ethers": "*",
+    "hardhat": "*",
+    "typescript": "*",
+    "ts-node": "*",
+    "typechain": "*"
+  }
+}
